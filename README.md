@@ -20,8 +20,8 @@ In this repo you will find all the information needed to go through these steps 
 ## Need Help?
 If you would like some coaching, you can contact an app subject matter expert from the following list:
 
-Cloud Ready Software, http://cloud-ready-software.com
-Dynamics App Alliance, http://dynamicsappalliance.com​
+- Cloud Ready Software, http://cloud-ready-software.com
+- Dynamics App Alliance, http://dynamicsappalliance.com​
 
 Partners in​ this list:
 
