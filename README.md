@@ -2,11 +2,11 @@
 
 There are plenty of benefits of using Dynamics 365 for Financials as a platform for App builders:
 
-Enrich Dynamics 365 for Financials, a proven Microsoft online solution, with your expertise
-Leverage the Dynamics 365 brand – a brand that millions of users know and trust
-Reach more customers for your business apps with Microsoft AppSource
-Achieve more with a platform that delivers a modern experience and offers scale
-Bundle with intelligent business apps such as PowerApps, Flow, Power BI, Cortana Intelligence, and many more
+- Enrich Dynamics 365 for Financials, a proven Microsoft online solution, with your expertise
+- Leverage the Dynamics 365 brand – a brand that millions of users know and trust
+- Reach more customers for your business apps with Microsoft AppSource
+- Achieve more with a platform that delivers a modern experience and offers scale
+- Bundle with intelligent business apps such as PowerApps, Flow, Power BI, Cortana Intelligence, and many more
 
 To bring your Financials app into AppSource:
 - Create your accounts
